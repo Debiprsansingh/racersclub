@@ -2,3 +2,4 @@
 2. Than we need to select a convienient cloud platform 
 3. After that we statrt building the cloud infra 
 4. Then we create terraform file
+5. Then we can proceed with terraform init.
