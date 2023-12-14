@@ -6,5 +6,3 @@
 6. Then we proceed further for the dry run of the infra.
 7. For that we run the terraform plan command.
 8. for that we use terraform apply.
-9. After that the cloud infra is created and setup in the cloud account.
-10. After that we need to take care of the state file.
